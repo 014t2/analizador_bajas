@@ -24,7 +24,7 @@ Backend: FastAPI, Pydantic, Uvicorn
 Frontend: HTML5, JavaScript, Tailwind CSS 
 
 
-Base de Datos: PostgreSQL / CSV 
+Base de Datos: CSV 
 
 📂 Estructura del Proyecto
 Plaintext
