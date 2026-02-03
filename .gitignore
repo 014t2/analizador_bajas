@@ -1,0 +1,26 @@
+# Entorno Virtual
+.env/
+env/
+venv/
+ENV/
+
+# Python (Archivos temporales)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook (Archivos temporales)
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datos (Opcional)
+# Si el CSV es muy pesado o privado, descomenta la siguiente línea:
+# data/*.csv
+
+# IDEs (VS Code / PyCharm)
+.vscode/
+.idea/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
