@@ -42,7 +42,7 @@ analizador_bajas/
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/tu-usuario/analizador-bajas.git
+git clone https://github.com/tu-usuario/analizador_bajas.git
 cd analizador-bajas
 Configurar el entorno virtual:
 
@@ -72,4 +72,4 @@ Preprocesamiento: Limpieza de nulos y One-Hot Encoding para variables categóric
 
 👩‍💻 Sobre la Autora
 
-Olatz Larrañaga - Especialista en Desarrollo de Aplicaciones Web (DAW) con formación avanzada en Inteligencia Artificial y Data Science. Perfil proactivo orientado a la calidad del código y la resolución de problemas analíticos.
+Olatz Larrañaga - Desarrolladora de Aplicaciones Web con formación en Inteligencia Artificial y Data Science. Perfil proactivo orientado a la calidad del código y la resolución de problemas analíticos.
