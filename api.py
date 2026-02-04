@@ -41,7 +41,7 @@ class Cliente(BaseModel):
 @app.post("/predict")
 def predecir(cliente: Cliente):
     # Convertimos a DataFrame
-    df = pd.DataFrame([cliente.dict()])
+    df = pd.DataFrame([cliente.model_dump()])
 
     # Codificamos las variables categoricas
     df = pd.get_dummies(df, columns=["GENERO", "NIV_EDUC", "E_CIVIL", "CIUDAD","SEGURO"])
